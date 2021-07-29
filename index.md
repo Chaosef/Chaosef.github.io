@@ -20,8 +20,15 @@
 
 
 
+目前剧情路线如下：
 
 ![剧情路线](/images/153911.jpg)
+
+觉得不错的话，欢迎通过下方二维码支援作者
+<figure class="half">
+    <img src="/images/153857.png">
+    <img src="/images/153902.jpg">
+</figure>
 
 
 ![微信](/images/153857.png)
